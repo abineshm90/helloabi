@@ -4,7 +4,7 @@ public class SourceCode {
 
 	
 	private void empName() {
-		// TODO Auto-generated method stub
+	System.out.println("emp name is ramkumar");
 
 	}
 	
